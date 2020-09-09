@@ -9,7 +9,7 @@ public class Work1 {
         System.out.println("Input number: ");
         int value = in.nextInt();
 
-        System.out.println(value);
+        System.out.println(value%10);
 in.close();
     }
 
